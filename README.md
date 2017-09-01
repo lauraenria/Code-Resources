@@ -30,8 +30,12 @@ My Code Resources:
  * [The Codeplayer](http://thecodeplayer.com/)
  * [CodinGame](https://www.codingame.com/start)
  * [Bento](https://bento.io/)
-
-
+ * [Scotch](https://scotch.io)
+ 
+### Useful No Free content
+ * [Coding Faculty](http://codingfaculty.com/)
+ 
+ 
 ## Indentation e extra
 * [Importance of code indentation](http://mrbool.com/importance-of-code-indentation/29079)
 * [Indenting C Programs ](https://www2.cs.arizona.edu/~mccann/indent_c.html)
@@ -39,8 +43,7 @@ My Code Resources:
 * [Markdown Syntax Guide](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
 * [Alt Codes](http://www.alt-codes.net/)
 * [Regular expression](https://regexone.com/)
-* []()
-* []()
+* [Document Object Model - DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 * []()
 
 
@@ -60,11 +63,21 @@ My Code Resources:
 
 ## FlexBox
 
-* [CSS-TRICKS](https://css-tricks.com/)
-* []()
+* [CSS-TRICKS Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/?fref=gc&dti=321090721625587)
+* [What's FlexBox Tutorial Free](https://flexbox.io/)
+* [Froggy Tutorial](http://flexboxfroggy.com/)
+* [FlexboxZombies](http://flexboxzombies.com/p/flexbox-zombies)
+* [Using CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes?fref=gc&dti=321090721625587)
+* [Learn CSS Layout](http://learnlayout.com/flexbox.html?fref=gc&dti=321090721625587)
+* [codepenFlexBox](https://codepen.io/mkmanges/pen/BZrLRj)
+
+
+## Grid
+* [CSS-TRICKS Complete Guide Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [CSS Grid Changes](https://www.youtube.com/watch?v=7kVeCqQCxlk)
 
 ## Javascript
-*[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+* [MDN JS Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 ## Python
 
@@ -74,6 +87,12 @@ My Code Resources:
 * [RUBY ON RAILS TUTORIAL (RAILS 5)](https://www.railstutorial.org/book)
 ##
 
-##
 
 ## Git 
+* [Git Free Documentation](https://git-scm.com/book/en/v2)
+* [Git Tutorial](https://try.github.io/levels/1/challenges/1)
+
+# Front End
+
+## HTML
+## CSS
