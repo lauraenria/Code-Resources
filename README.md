@@ -44,7 +44,6 @@ My Code Resources:
 * [Alt Codes](http://www.alt-codes.net/)
 * [Regular expression](https://regexone.com/)
 * [Document Object Model - DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-* []()
 
 
 
@@ -96,3 +95,12 @@ My Code Resources:
 
 ## HTML
 ## CSS
+
+## Live shared Code
+
+* [Repl](https://repl.it/) Compiler
+* [Github Gists](https://gist.github.com/) 
+* [JS Bin](https://jsbin.com/?html,output) 
+* [Codepen](https://codepen.io/) 
+* [Cloud9](https://c9.io/)
+* [Gyazo](https://gyazo.com/)  A screenshot sharing app
