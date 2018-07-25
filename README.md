@@ -125,7 +125,7 @@ My Code Resources:
 ## Improve your logical-thinking
 
 * [5 Whys](https://en.wikipedia.org/wiki/5_Whys)
-* [I am not a good programmer (in logic), how should I fix it?(https://softwareengineering.stackexchange.com/questions/115269/i-am-not-a-good-programmer-in-logic-how-should-i-fix-it/115334#115334)
+* [I am not a good programmer (in logic), how should I fix it?](https://softwareengineering.stackexchange.com/questions/115269/i-am-not-a-good-programmer-in-logic-how-should-i-fix-it/115334#115334)
 * []()
 * []()
 
