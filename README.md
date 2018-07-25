@@ -44,6 +44,7 @@ My Code Resources:
 * [Alt Codes](http://www.alt-codes.net/)
 * [Regular expression](https://regexone.com/)
 * [Document Object Model - DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [JSFiddle online code editor.](https://jsfiddle.net/)
 
 
 
@@ -69,11 +70,16 @@ My Code Resources:
 * [Using CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes?fref=gc&dti=321090721625587)
 * [Learn CSS Layout](http://learnlayout.com/flexbox.html?fref=gc&dti=321090721625587)
 * [codepenFlexBox](https://codepen.io/mkmanges/pen/BZrLRj)
+* [Learn Flexbox for free](https://scrimba.com/g/gflexbox)
+* [flexbox Nº 8](https://internetingishard.com/html-and-css/flexbox/)
+
+
 
 
 ## Grid
 * [CSS-TRICKS Complete Guide Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [CSS Grid Changes](https://www.youtube.com/watch?v=7kVeCqQCxlk)
+* [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
 
 ## Javascript
 * [MDN JS Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
@@ -81,20 +87,31 @@ My Code Resources:
 ## Python
 
 ## Processing
-
-## RUBY
-* [RUBY ON RAILS TUTORIAL (RAILS 5)](https://www.railstutorial.org/book)
-##
-
+* [Official Website](https://processing.org/)
 
 ## Git 
 * [Git Free Documentation](https://git-scm.com/book/en/v2)
 * [Git Tutorial](https://try.github.io/levels/1/challenges/1)
+* [Cool Game for learn GIT](http://gitreal.codeschool.com/levels/1)
+
+
+## GitHub
+* [GitHub Resouces](https://services.github.com/on-demand/resources/)
+
 
 # Front End
 
 ## HTML
 ## CSS
+
+* [sassmeister](https://www.sassmeister.com/)
+
+## BackEnd
+
+# Ruby
+* [RUBY ON RAILS TUTORIAL (RAILS 5)](https://www.railstutorial.org/book)
+* [documentation for the Ruby](https://ruby-doc.org/core-2.5.0/Enumerable.html#method-i-all-3F)
+* []()
 
 ## Live shared Code
 
@@ -104,3 +121,18 @@ My Code Resources:
 * [Codepen](https://codepen.io/) 
 * [Cloud9](https://c9.io/)
 * [Gyazo](https://gyazo.com/)  A screenshot sharing app
+
+## Improve your logical-thinking
+
+* [5 Whys](https://en.wikipedia.org/wiki/5_Whys)
+* [I am not a good programmer (in logic), how should I fix it?(https://softwareengineering.stackexchange.com/questions/115269/i-am-not-a-good-programmer-in-logic-how-should-i-fix-it/115334#115334)
+* []()
+* []()
+
+## Interesting stuff
+
+* [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
+## Job Interview Tips
+* []()
+* []()
