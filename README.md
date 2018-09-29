@@ -3,23 +3,24 @@ My Code Resources:
 ## Pratical Code for beginners
 ## FreeCodeCamp Resources
 
-![Alt text](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
+![FreeCodeCamp](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
 
 * [FreeCodeCamp](https://www.freecodecamp.com)
 * [Path's FreecodeCamp](https://github.com/Rafase282/My-FreeCodeCamp-Code/wiki#html5-and-css)
 
 ## CodeWars
-![Alt text](https://smartprogress.do/uploadImages/000861991_l_crop.jpg)
+![CodeWars](https://smartprogress.do/uploadImages/000861991_l_crop.jpg)
 
 * [CodeWars](https://www.codewars.com/)
 
 ## Code Accademy
-![Alt text](https://media.licdn.com/mpr/mpr/shrinknp_674_240/AAEAAQAAAAAAAAT4AAAAJDhlZTA2MDYwLWE1YzctNDA4MS04NGQ3LWE5YzhlYTdhZThjYg.png)
+![Alt text](https://github.com/lauraenria/Code-Resources/blob/master/codeAccademy.png?raw=true)
 
 * [CodeAccademy](https://www.codecademy.com/)
 
 ## more
 
+* [The Odin project](https://www.theodinproject.com/courses/ruby-on-rails)
  * [Hacker Rank](https://www.hackerrank.com/)
  * [SoloLearn](https://www.sololearn.com/)
  * [Udacity](https://www.udacity.com/)
@@ -31,11 +32,22 @@ My Code Resources:
  * [CodinGame](https://www.codingame.com/start)
  * [Bento](https://bento.io/)
  * [Scotch](https://scotch.io)
+ * [Superhi](https://www.superhi.com/courses/html-css-javascript-foundation)
+ * [Codelabs - Google Developers](https://codelabs.developers.google.com/)
+ * [Open Courses](https://open.hpi.de/)
+ * [Dailycssimages](http://dailycssimages.com/)
+ * [Project Euler](https://projecteuler.net/archives)
  
 ### Useful No Free content
  * [Coding Faculty](http://codingfaculty.com/)
  
  
+## Javascript
+* [Something funny: A virtual “drum machine”](https://www.patatap.com/)
+* [JavaScript FOR KIDS JavaScript FOR KIDS - Holla!](http://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-for-Kids.pdf)
+
+
+
 ## Indentation e extra
 * [Importance of code indentation](http://mrbool.com/importance-of-code-indentation/29079)
 * [Indenting C Programs ](https://www2.cs.arizona.edu/~mccann/indent_c.html)
@@ -45,6 +57,14 @@ My Code Resources:
 * [Regular expression](https://regexone.com/)
 * [Document Object Model - DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 * [JSFiddle online code editor.](https://jsfiddle.net/)
+* [testing](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a)
+
+## Editor
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Sublime](https://www.sublimetext.com/)
+* [Webstorm - No free](https://www.jetbrains.com/webstorm/?fromMenu)
+* [IntelliJ IDEA - No free](https://www.jetbrains.com/idea/?fromMenu)
 
 
 
@@ -60,6 +80,9 @@ My Code Resources:
  * [Marchetti Design](https://www.youtube.com/channel/UCWT3E1a00seSxCo3amg16AQ)
  * [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
  * [Geek Gurl Diaries](https://www.youtube.com/channel/UCxrp2coE9wRrnlOO3V3UmdQ)
+
+ ## Conference
+ * [Halfstack 2017 Videos](https://halfstackconf2017.streameventlive.com/)
 
 ## FlexBox
 
@@ -83,6 +106,8 @@ My Code Resources:
 
 ## Javascript
 * [MDN JS Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+* [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html)
+* [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Python
 
@@ -102,9 +127,13 @@ My Code Resources:
 # Front End
 
 ## HTML
+* [Codecademy’s HTML and CSS course](https://www.codecademy.com/catalog/language/html-css)
+* [The Mozilla Developer Network’s Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+* [Mozilla Webmaker](https://webmaker.org/)
 ## CSS
-
 * [sassmeister](https://www.sassmeister.com/)
+* [Fluid Responsive Typography](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)
+* [What is the difference between fixed, fluid, adaptive and responsive layouts](https://medium.com/@space.alpaca/so-what-exactly-is-the-difference-between-fixed-fluid-adaptive-and-responsive-layouts-and-why-3773272d8481)
 
 ## BackEnd
 
@@ -126,13 +155,46 @@ My Code Resources:
 
 * [5 Whys](https://en.wikipedia.org/wiki/5_Whys)
 * [I am not a good programmer (in logic), how should I fix it?](https://softwareengineering.stackexchange.com/questions/115269/i-am-not-a-good-programmer-in-logic-how-should-i-fix-it/115334#115334)
-* []()
-* []()
+<!-- * []() -->
+<!-- * []() -->
 
 ## Interesting stuff
 
 * [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 ## Job Interview Tips
-* []()
-* []()
+<!-- * []() -->
+<!-- * []() -->
+
+## Meetups
+
+## Guideline
+* [Meet a mentor](http://meetamentor.co.uk/)
+* [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
+
+## Conference
+
+* [Fuzzybrains Django Girls and DjangEurope](https://www.fuzzybrains.org/it/)
+* [#LEAD DEV](https://theleaddeveloper.com/)
+
+# Interneship and help for diversity and non
+* [Google Summer of Code](https://summerofcode.withgoogle.com/)
+* [Outreachy](https://www.outreachy.org/)
+* [Hypatia Software](https://hypatiasoftware.org/)
+* [Latinas in Tech](https://www.latinasintech.org/)
+* [People of Color in Tech](https://peopleofcolorintech.com/)
+* [Women Who Code](https://www.womenwhocode.com/)
+* [LGBTQ in Technology](https://lgbtq.technology/)
+* [The Recurse Center](https://www.recurse.com/)
+* [Trans*H4CK](http://www.transhack.org/)
+* [ Women in Technology Slack group](https://witchat.github.io/)
+* [Women in Linux](http://www.womeninlinux.com/)
+* [Richard tapia conference](http://tapiaconference.org/)
+* [mozilla summer Interneship](https://careers.mozilla.org/university/) : We typically accept applications from September through March.
+* [Google Interneship](https://careers.google.com/students/)
+* [Google scholarships](https://buildyourfuture.withgoogle.com/scholarships/)
+* [Rails girls summer of code](https://railsgirlssummerofcode.org/)
+
+## Apprentices
+
+* [elatt apprentices](https://www.elatt.org.uk/apprentices)
