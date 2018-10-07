@@ -81,8 +81,6 @@ My Code Resources:
  * [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
  * [Geek Gurl Diaries](https://www.youtube.com/channel/UCxrp2coE9wRrnlOO3V3UmdQ)
 
- ## Conference
- * [Halfstack 2017 Videos](https://halfstackconf2017.streameventlive.com/)
 
 ## FlexBox
 
@@ -114,14 +112,16 @@ My Code Resources:
 ## Processing
 * [Official Website](https://processing.org/)
 
-## Git 
+## Git
 * [Git Free Documentation](https://git-scm.com/book/en/v2)
 * [Git Tutorial](https://try.github.io/levels/1/challenges/1)
 * [Cool Game for learn GIT](http://gitreal.codeschool.com/levels/1)
 
 
+
 ## GitHub
 * [GitHub Resouces](https://services.github.com/on-demand/resources/)
+* [contribution-checker](https://contribution-checker.herokuapp.com/)
 
 
 # Front End
@@ -176,6 +176,8 @@ My Code Resources:
 
 * [Fuzzybrains Django Girls and DjangEurope](https://www.fuzzybrains.org/it/)
 * [#LEAD DEV](https://theleaddeveloper.com/)
+* [Halfstack 2017 Videos](https://halfstackconf2017.streameventlive.com/)
+
 
 # Interneship and help for diversity and non
 * [Google Summer of Code](https://summerofcode.withgoogle.com/)
@@ -198,3 +200,8 @@ My Code Resources:
 ## Apprentices
 
 * [elatt apprentices](https://www.elatt.org.uk/apprentices)
+* [tpdegrees](https://www.tpdegrees.com/)
+* [bpp-apprenticeships](https://www.bpp.com/apprenticeships/apprenticeship-vacancies)
+* [Financial Time Appreticeship](https://aboutus.ft.com/en-gb/careers/graduate-schemes-and-internships/software-engineering-apprentice-scheme/)
+* []()
+* 
