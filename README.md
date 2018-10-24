@@ -45,6 +45,9 @@ My Code Resources:
 ## Javascript
 * [Something funny: A virtual “drum machine”](https://www.patatap.com/)
 * [JavaScript FOR KIDS JavaScript FOR KIDS - Holla!](http://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-for-Kids.pdf)
+* [MDN JS Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+* [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html)
+* [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 
 
@@ -58,6 +61,7 @@ My Code Resources:
 * [Document Object Model - DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 * [JSFiddle online code editor.](https://jsfiddle.net/)
 * [testing](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a)
+[wetransfer](https://wetransfer.com/) simplest way to send your files around the world. 
 
 ## Editor
 
@@ -95,17 +99,11 @@ My Code Resources:
 * [flexbox Nº 8](https://internetingishard.com/html-and-css/flexbox/)
 
 
-
-
 ## Grid
 * [CSS-TRICKS Complete Guide Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [CSS Grid Changes](https://www.youtube.com/watch?v=7kVeCqQCxlk)
 * [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
 
-## Javascript
-* [MDN JS Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-* [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html)
-* [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Python
 
@@ -116,7 +114,6 @@ My Code Resources:
 * [Git Free Documentation](https://git-scm.com/book/en/v2)
 * [Git Tutorial](https://try.github.io/levels/1/challenges/1)
 * [Cool Game for learn GIT](http://gitreal.codeschool.com/levels/1)
-
 
 
 ## GitHub
@@ -130,17 +127,30 @@ My Code Resources:
 * [Codecademy’s HTML and CSS course](https://www.codecademy.com/catalog/language/html-css)
 * [The Mozilla Developer Network’s Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 * [Mozilla Webmaker](https://webmaker.org/)
+
 ## CSS
 * [sassmeister](https://www.sassmeister.com/)
 * [Fluid Responsive Typography](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)
 * [What is the difference between fixed, fluid, adaptive and responsive layouts](https://medium.com/@space.alpaca/so-what-exactly-is-the-difference-between-fixed-fluid-adaptive-and-responsive-layouts-and-why-3773272d8481)
+
+
+## CSS - extra
+* [Free outline Iconset - linea](http://linea.io/)
+
+ ## CSS Challenge
+
+ * [100dayscss](https://100dayscss.com/)
 
 ## BackEnd
 
 # Ruby
 * [RUBY ON RAILS TUTORIAL (RAILS 5)](https://www.railstutorial.org/book)
 * [documentation for the Ruby](https://ruby-doc.org/core-2.5.0/Enumerable.html#method-i-all-3F)
-* []()
+<!-- * []() -->
+
+## API
+* [REST API Tutorial](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
+* [RESTful Book](https://www.amazon.com/dp/0596801688/?tag=stackoverflow17-20)
 
 ## Live shared Code
 
@@ -150,6 +160,10 @@ My Code Resources:
 * [Codepen](https://codepen.io/) 
 * [Cloud9](https://c9.io/)
 * [Gyazo](https://gyazo.com/)  A screenshot sharing app
+
+## Web
+
+* [netlify](https://www.netlify.com/) Deploy your site in seconds*
 
 ## Improve your logical-thinking
 
@@ -178,6 +192,10 @@ My Code Resources:
 * [#LEAD DEV](https://theleaddeveloper.com/)
 * [Halfstack 2017 Videos](https://halfstackconf2017.streameventlive.com/)
 
+## podcast
+
+* [itcareerenergizer](http://itcareerenergizer.com/)
+
 
 # Interneship and help for diversity and non
 * [Google Summer of Code](https://summerofcode.withgoogle.com/)
@@ -199,9 +217,11 @@ My Code Resources:
 
 ## Apprentices
 
+* [The Ultimate Guide to Apprenticeships (Or How To Find Your First Remote Job)](https://taylorpearson.me/entry-level-remote-jobs/?utm_source=HelloFromTrevorMcKendrick&ck_subscriber_id=196225224)
 * [elatt apprentices](https://www.elatt.org.uk/apprentices)
 * [tpdegrees](https://www.tpdegrees.com/)
 * [bpp-apprenticeships](https://www.bpp.com/apprenticeships/apprenticeship-vacancies)
 * [Financial Time Appreticeship](https://aboutus.ft.com/en-gb/careers/graduate-schemes-and-internships/software-engineering-apprentice-scheme/)
-* []()
+* [softwire](https://www.softwire.com/work-for-us/apprentice_software_developer/)
 * 
+
