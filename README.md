@@ -44,6 +44,7 @@
 - [Dailycssimages](http://dailycssimages.com/)
 - [Project Euler](https://projecteuler.net/archives)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university#book-list)
+- [A Programmer's Introduction to Mathematics](https://pimbook.org/)
 
 ### Useful No Free content
 
@@ -123,7 +124,8 @@
 
 - [sassmeister](https://www.sassmeister.com/)
 - [Fluid Responsive Typography](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)
-- [What is the difference between fixed, fluid, adaptive and responsive layouts](https://medium.com/@space.alpaca/so-what-exactly-is-the-difference-between-fixed-fluid-adaptive-and-responsive-layouts-and-why-3773272d8481)
+- [What is the difference between fixed, fluid, adaptive and responsive layouts](https://medium.com/@space.alpaca/so-what-exactly-is-the-difference-between-fixed-fluid-adaptive-and-responsive-layouts-and-why-3773272d8481) -[Estelle's Github](https://estelle.github.io/)
+- [csszengarden](http://www.csszengarden.com/)
 
 ## CSS - extra
 
@@ -136,20 +138,80 @@
 ## FlexBox
 
 - [CSS-TRICKS Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/?fref=gc&dti=321090721625587)
+
 - [What's FlexBox Tutorial Free](https://flexbox.io/)
-- [Froggy Tutorial](http://flexboxfroggy.com/)
+
 - [FlexboxZombies](http://flexboxzombies.com/p/flexbox-zombies)
+
 - [Using CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes?fref=gc&dti=321090721625587)
+
 - [Learn CSS Layout](http://learnlayout.com/flexbox.html?fref=gc&dti=321090721625587)
+
 - [codepenFlexBox](https://codepen.io/mkmanges/pen/BZrLRj)
+
 - [Learn Flexbox for free](https://scrimba.com/g/gflexbox)
+
 - [flexbox Nº 8](https://internetingishard.com/html-and-css/flexbox/)
 
-## Grid
+- [Chris Coyer's Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+- [Smashing Magazine: Harnessing Flexbox for Today's Web Apps ](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/)
+
+- [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
+
+- [Flexy Boxes playground and code generator](http://the-echoplex.net/flexyboxes/)
+
+- [Getting started with Flexbox grid systems](http://www.webdesignerdepot.com/2016/02/getting-started-with-flexbox-grid-systems/)
+
+- [Flexbox Froggy](http://flexboxfroggy.com/)
+
+- [Flexbox Defense](http://www.flexboxdefense.com/)
+
+- [Flexbox Grid](http://flexboxgrid.com/)
+
+- [Bootstrap 4's Flexbox-based grid](https://getbootstrap.com/docs/4.0/layout/grid/)
+
+- [Zurb Foundation's XY Grid](http://foundation.zurb.com/sites/docs/xy-grid.html)
+
+## RESPONSIVE IMAGES
+
+- [Picturefill source](http://scottjehl.github.io/picturefill/)
+
+- [About the <picture> tag](https://www.html5rocks.com/en/tutorials/responsive/picture-element/)
+
+- [Tim Kadlec: Media query asset downloading results](http://timkadlec.com/2012/04/media-query-asset-downloading-results/)
+
+## CSS GRID
 
 - [CSS-TRICKS Complete Guide Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [CSS Grid Changes](https://www.youtube.com/watch?v=7kVeCqQCxlk)
 - [Learn CSS Grid for free](https://scrimba.com/g/gR8PTE)
+
+- [CSS Tricks: A Complete Guide to Grid ](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+- [Grid by Example](http://gridbyexample.com/)
+
+- [Practical CSS Grid: Adding Grid to an Existing Design](https://alistapart.com/article/practical-grid)
+
+- [Basic concepts of grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
+
+- [CSS Grid Inspector (in Firefox)](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts)
+
+- [Grid "fallbacks" and overrides](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
+
+- [Things I’ve Learned About CSS Grid Layout](https://css-tricks.com/things-ive-learned-css-grid-layout/)
+
+- [GRID PILE: Stacking CSS Grids for Impossible Layouts](https://www.linkedin.com/pulse/grid-pile-stacking-css-grids-impossible-layouts-rand-hendriksen/)
+
+- [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/)
+
+- [A Collection of Interesting Facts about CSS Grid Layout](https://css-tricks.com/collection-interesting-facts-css-grid-layout/)
+
+- [Is it really safe to start using CSS Grid Layout?](https://rachelandrew.co.uk/archives/2017/07/04/is-it-really-safe-to-start-using-css-grid-layout/)
+
+- [Bootstrap to CSS Grid](https://medium.com/@tallys/bootstrap-to-css-grid-87b3f5f830e4)
+
+- [Firefox Developer version -- Grid tools](https://mozilladevelopers.github.io/playground/03-firefox-devtools)
 
 ## ELM
 
@@ -170,6 +232,7 @@
 ## Django
 
 - [Best Online Django Video Tutorials (2018)](https://wsvincent.com/best-online-django-tutorials/)
+- [Django Web Framework MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) -[A Complete Beginner's Guide to Django - Part 1](https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html#introduction)
 
 ## Ruby
 
