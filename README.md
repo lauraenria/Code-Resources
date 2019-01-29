@@ -28,10 +28,13 @@
 - [SoloLearn](https://www.sololearn.com/)
 - [Udacity](https://www.udacity.com/)
 - [Udemy](https://www.udemy.com/courses/development/)
+- [web.dev](https://web.dev/)
+- [exercism](https://exercism.io/) Code practice and mentorship for everyone
 - [Coursera](coding-interview-university)
-  - [Web Design for Everybody (Basics of Web Development and Coding) Specialization](https://www.coursera.org/specializations/web-design?ranMID=40328&ranEAID=8umiG8lwDa8&ranSiteID=8umiG8lwDa8-bLZuRwNUUiAWUChr4fX2cQ&siteID=8umiG8lwDa8-bLZuRwNUUiAWUChr4fX2cQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=8umiG8lwDa8)
-  - [Algorithms Part 1](https://www.coursera.org/learn/algorithms-part1)
-  - [Programming Foundations with JavaScript HTML and CSS](https://www.coursera.org/learn/duke-programming-web?authMode=login&ranEAID=8umiG8lwDa8&ranMID=40328&ranSiteID=8umiG8lwDa8-hCh5bIJJGsVkPs.bBak42A&siteID=8umiG8lwDa8-hCh5bIJJGsVkPs.bBak42A&utm_campaign=8umiG8lwDa8&utm_content=10&utm_medium=partners&utm_source=linkshare)
+- [Web Design for Everybody (Basics of Web Development and Coding) Specialization](https://www.coursera.org/specializations/web-design?ranMID=40328&ranEAID=8umiG8lwDa8&ranSiteID=8umiG8lwDa8-bLZuRwNUUiAWUChr4fX2cQ&siteID=8umiG8lwDa8-bLZuRwNUUiAWUChr4fX2cQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=8umiG8lwDa8)
+- [Algorithms Part 1](https://www.coursera.org/learn/algorithms-part1)
+- [Programming Foundations with JavaScript HTML and CSS](https://www.coursera.org/learn/duke-programming-web?authMode=login&ranEAID=8umiG8lwDa8&ranMID=40328&ranSiteID=8umiG8lwDa8-hCh5bIJJGsVkPs.bBak42A&siteID=8umiG8lwDa8-hCh5bIJJGsVkPs.bBak42A&utm_campaign=8umiG8lwDa8&utm_content=10&utm_medium=partners&utm_source=linkshare)
+
 - [edX](https://www.edx.org/)
 - [KhanAcademy](https://www.khanacademy.org/)
 - [The Codeplayer](http://thecodeplayer.com/)
@@ -42,8 +45,11 @@
 - [Codelabs - Google Developers](https://codelabs.developers.google.com/)
 - [Open Courses](https://open.hpi.de/)
 - [Dailycssimages](http://dailycssimages.com/)
+
 - [Project Euler](https://projecteuler.net/archives)
+
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university#book-list)
+
 - [A Programmer's Introduction to Mathematics](https://pimbook.org/)
 
 ### Useful No Free content
@@ -106,13 +112,22 @@
 
 # Front End
 
+- [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
+
 ## Javascript
 
+- [es6features](https://github.com/lukehoban/es6features)
+- [New ES2018 Features Every JavaScript Developer Should Know](https://css-tricks.com/new-es2018-features-every-javascript-developer-should-know/)
+- [THE COMPLETE ECMASCRIPT 2015-2017 GUIDE](https://flaviocopes.com/ecmascript/)
 - [Something funny: A virtual “drum machine”](https://www.patatap.com/)
 - [JavaScript FOR KIDS JavaScript FOR KIDS - Holla!](http://pepa.holla.cz/wp-content/uploads/2015/11/JavaScript-for-Kids.pdf)
 - [MDN JS Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html)
 - [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+## Transpilers: Babel
+
+- [Babel - programwitherik](https://www.programwitherik.com/understanding-the-babel-compiler-2016/)
 
 ## HTML
 
@@ -126,16 +141,22 @@
 - [Fluid Responsive Typography](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)
 - [What is the difference between fixed, fluid, adaptive and responsive layouts](https://medium.com/@space.alpaca/so-what-exactly-is-the-difference-between-fixed-fluid-adaptive-and-responsive-layouts-and-why-3773272d8481) -[Estelle's Github](https://estelle.github.io/)
 - [csszengarden](http://www.csszengarden.com/)
+- [The most hearted of 2018 ](https://codepen.io/2018/popular/pens/) top 100 list of CodePen creations from 2018
+- [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je) get comfortable on the command line.[FANCY-BORDER-RADIUS](https://9elements.github.io/fancy-border-radius/)
 
 ## CSS - extra
 
 - [Free outline Iconset - linea](http://linea.io/)
+- [ \*{box-sizing: border-box;} FTW](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
+- [normalize.css](https://github.com/necolas/normalize.css)
 
 ## CSS Challenge
 
 - [100dayscss](https://100dayscss.com/)
 
 ## FlexBox
+
+- [responsive web design by Ethan Marcotte](https://alistapart.com/article/responsive-web-design)
 
 - [CSS-TRICKS Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/?fref=gc&dti=321090721625587)
 
@@ -172,6 +193,8 @@
 - [Bootstrap 4's Flexbox-based grid](https://getbootstrap.com/docs/4.0/layout/grid/)
 
 - [Zurb Foundation's XY Grid](http://foundation.zurb.com/sites/docs/xy-grid.html)
+
+- [Can I use flexbox?](https://caniuse.com/#feat=flexbox)
 
 ## RESPONSIVE IMAGES
 
@@ -268,10 +291,16 @@
 ## Interesting stuff
 
 - [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [jenkramer -front-end](http://www.jenkramer.org/)
+  <!-- - []()
+- []()
+- []()
+- []()
+- []() -->
 
 ## Job Interview Tips
 
-<!-- * []() -->
+<!-- - []() -->
 <!-- * []() -->
 
 ## Meetups
@@ -321,3 +350,11 @@
 - [bpp-apprenticeships](https://www.bpp.com/apprenticeships/apprenticeship-vacancies)
 - [Financial Time Appreticeship](https://aboutus.ft.com/en-gb/careers/graduate-schemes-and-internships/software-engineering-apprentice-scheme/)
 - [softwire](https://www.softwire.com/work-for-us/apprentice_software_developer/)
+
+## Books
+
+-[Site Reliability Engineering && The Site Reliability Workbook](https://landing.google.com/sre/books/)
+
+## GAMES
+
+- [kodingergoy](https://kodingergoy.arkivert.no/)
