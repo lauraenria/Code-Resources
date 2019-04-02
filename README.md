@@ -174,6 +174,9 @@ My Code Resources:
 
 # Microservices
 
+The reason for Microservices is speeding up development.
+It's just a architectural approach to designing applications in a way that's modular, easy to deploy, and scale independently.
+
 * [Kubernetes: Up and Running, Kelsey Hightower ](http://shop.oreilly.com/product/0636920043874.do) book
 * [Building Microservices: Defining Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do) book
 * Martin Fowler on the [Pro](http://martinfowler.com/articles/microservices.html) and [Cons of Microservices](http://martinfowler.com/articles/microservice-trade-offs.html)
@@ -184,7 +187,7 @@ My Code Resources:
 * Martin Fowler ["Microservices"](https://www.youtube.com/watch?v=wgdBVIX9ifA) at goto
 * Craig McLuckie ["The Next Chapter in Native Cloud Computing"](https://www.youtube.com/watch?v=mPhjFYXoAD0) on cloud-native computing as being: container-packaged, dynamically-scheduled, and microservices-oriented
 * [Docker](https://www.docker.com/) to package, distribute, and run our application.
-* [kubernetes](http://kubernetes.io/)  to handle the heavy lifting of managing, deploying, and scaling our application.
+* [Kubernetes](http://kubernetes.io/)  to handle the heavy lifting of managing, deploying, and scaling our application.
 * [Google Container Engine (GKE)](https://cloud.google.com/container-engine/) is a hosted Kubernetes service
 
 
