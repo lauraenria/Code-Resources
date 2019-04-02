@@ -172,15 +172,34 @@ My Code Resources:
 <!-- * []() -->
 <!-- * []() -->
 
+# Microservices
+
+* [Kubernetes: Up and Running, Kelsey Hightower ](http://shop.oreilly.com/product/0636920043874.do) book
+* [Building Microservices: Defining Fine-Grained Systems](http://shop.oreilly.com/product/0636920033158.do) book
+* Martin Fowler on the [Pro](http://martinfowler.com/articles/microservices.html) and [Cons of Microservices](http://martinfowler.com/articles/microservice-trade-offs.html)
+* [12-Fractured Apps](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c) - One of Carters favorites articles where Kelsey breaks down problems with many modern apps and how 12-factor app methodology solves those technical woes.
+* Tim O’Reilly,["Open Data: Small Pieces Loosely Joined"](http://radar.oreilly.com/2006/09/open-data-small-pieces-loosely.html) or the history nerds: Quite possibly the first article about Microservices Architecture
+* Adrian Cockroft ["The Evolution of Microservices"](http://www.ustream.tv/recorded/86151804)
+* Adrian Cockroft ["The State of the Art in Microservices"](https://www.youtube.com/watch?v=pwpxq9-uw_0)
+* Martin Fowler ["Microservices"](https://www.youtube.com/watch?v=wgdBVIX9ifA) at goto
+* Craig McLuckie ["The Next Chapter in Native Cloud Computing"](https://www.youtube.com/watch?v=mPhjFYXoAD0) on cloud-native computing as being: container-packaged, dynamically-scheduled, and microservices-oriented
+* [Docker](https://www.docker.com/) to package, distribute, and run our application.
+* [kubernetes](http://kubernetes.io/)  to handle the heavy lifting of managing, deploying, and scaling our application.
+* [Google Container Engine (GKE)](https://cloud.google.com/container-engine/) is a hosted Kubernetes service
+
+
 ## Interesting stuff
 
 * [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 ## Job Interview Tips
-<!-- * []() -->
-<!-- * []() -->
+
+<!-- * []()
+* []() -->
 
 ## Meetups
+* [ng-girls](http://ng-girls.org/)
+* [djangogirls](https://djangogirls.org/)
 
 ## Guideline
 * [Meet a mentor](http://meetamentor.co.uk/)
