@@ -104,6 +104,9 @@
 - [Git User Manual](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/user-manual.html)
 - [LabEx Grep and Linux commands](https://labex.io/user/18714)
 - [Basic Git commands bitbucket](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+- [Git Commit Message Conventions `IMPORTANT` ](https://gist.github.com/stephenparish/9941e89d80e2bc58a153#message-footer)
+  - [G.C.M.C. Angulars](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit)
+- [Most commonly used git tips and tricks](https://github.com/git-tips/tips)
 
 ## GitHub
 
@@ -372,6 +375,12 @@ It's just a architectural approach to designing applications in a way that's mod
 - [bpp-apprenticeships](https://www.bpp.com/apprenticeships/apprenticeship-vacancies)
 - [Financial Time Appreticeship](https://aboutus.ft.com/en-gb/careers/graduate-schemes-and-internships/software-engineering-apprentice-scheme/)
 - [softwire](https://www.softwire.com/work-for-us/apprentice_software_developer/)
+
+# Bootcamps
+
+- [foundersandcoders](https://www.foundersandcoders.com/)
+- [kodiri](https://www.kodiri.com/portal#intro)
+- [makers academy](https://makers.tech/)
 
 ## Books
 
