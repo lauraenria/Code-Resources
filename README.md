@@ -51,6 +51,7 @@
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university#book-list)
 
 - [A Programmer's Introduction to Mathematics](https://pimbook.org/)
+- [Learn Design and Code](https://iamsteve.me/)
 
 ### Useful No Free content
 
@@ -389,3 +390,8 @@ It's just a architectural approach to designing applications in a way that's mod
 ## GAMES
 
 - [kodingergoy](https://kodingergoy.arkivert.no/)
+
+# Newsletter and reading website/blog
+
+- [LWN.net](https://lwn.net/)
+- [Hacker News](https://news.ycombinator.com/)
