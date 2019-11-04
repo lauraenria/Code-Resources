@@ -138,6 +138,7 @@
 - [Codecademy’s HTML and CSS course](https://www.codecademy.com/catalog/language/html-css)
 - [The Mozilla Developer Network’s Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [Mozilla Webmaker](https://webmaker.org/)
+- [html-can-do-that-con](https://dev.to/ananyaneogi/html-can-do-that-c0n)
 
 ## CSS
 
@@ -147,6 +148,7 @@
 - [csszengarden](http://www.csszengarden.com/)
 - [The most hearted of 2018 ](https://codepen.io/2018/popular/pens/) top 100 list of CodePen creations from 2018
 - [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je) get comfortable on the command line.[FANCY-BORDER-RADIUS](https://9elements.github.io/fancy-border-radius/)
+- [cssbattle](https://cssbattle.dev/)
 
 ## CSS - extra
 
@@ -316,11 +318,11 @@ It's just a architectural approach to designing applications in a way that's mod
 
 - [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [jenkramer -front-end](http://www.jenkramer.org/)
-  <!-- - []()
+- [what-is-code-golf](https://css-tricks.com/what-is-code-golf/)
 - []()
 - []()
 - []()
-- []() -->
+- []()
 
 ## Job Interview Tips
 
@@ -345,6 +347,9 @@ It's just a architectural approach to designing applications in a way that's mod
 - [Fuzzybrains Django Girls and DjangEurope](https://www.fuzzybrains.org/it/)
 - [#LEAD DEV](https://theleaddeveloper.com/)
 - [Halfstack 2017 Videos](https://halfstackconf2017.streameventlive.com/)
+- [yougotthis](https://2019.yougotthis.io/)
+- [js13kgames](https://js13kgames.com/)
+- [developher](https://developher.org/)
 
 ## podcast
 
