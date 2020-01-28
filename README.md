@@ -269,6 +269,13 @@
 - [documentation for the Ruby](https://ruby-doc.org/core-2.5.0/Enumerable.html#method-i-all-3F)
   <!-- * []() -->
 
+## Scala functional programming
+
+- [scala official website](https://www.scala-lang.org/)
+- [Programming in Scala by Martin Odersky- book](https://booksites.artima.com/programming_in_scala_2ed)
+- [Programming in Scala Forum](https://www.artima.com/forums/forum.jsp?forum=282)
+
+
 ## API
 
 - [REST API Tutorial](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
