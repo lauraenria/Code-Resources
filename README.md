@@ -1,5 +1,13 @@
 # My Code Resources:
 
+# Years
+
+- [The 2020 Web Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
+- [The 2019 Web Developer RoadMap](https://hackernoon.com/the-2019-web-developer-roadmap-ab89ac3c380e)
+- [front-end-handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
+- [front-end-handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+
 ## Pratical Code for beginners
 
 ## FreeCodeCamp Resources
@@ -128,6 +136,7 @@
 - [MDN JS Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html)
 - [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Javascript - Jupyter notebook](http://n-riesco.github.io/ijavascript/)
 
 ## Transpilers: Babel
 
@@ -274,6 +283,7 @@
 - [scala official website](https://www.scala-lang.org/)
 - [Programming in Scala by Martin Odersky- book](https://booksites.artima.com/programming_in_scala_2ed)
 - [Programming in Scala Forum](https://www.artima.com/forums/forum.jsp?forum=282)
+- [Scala School!](https://twitter.github.io/scala_school/index.html)
 
 
 ## API
