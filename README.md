@@ -336,10 +336,10 @@ It's just a architectural approach to designing applications in a way that's mod
 - [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [jenkramer -front-end](http://www.jenkramer.org/)
 - [what-is-code-golf](https://css-tricks.com/what-is-code-golf/)
+<!-- - []()
 - []()
 - []()
-- []()
-- []()
+- []() -->
 
 ## Job Interview Tips
 
