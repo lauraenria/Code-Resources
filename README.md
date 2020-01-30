@@ -1,5 +1,13 @@
 # My Code Resources:
 
+# Years
+
+- [The 2020 Web Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
+- [The 2019 Web Developer RoadMap](https://hackernoon.com/the-2019-web-developer-roadmap-ab89ac3c380e)
+- [front-end-handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
+- [front-end-handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+
 ## Pratical Code for beginners
 
 ## FreeCodeCamp Resources
@@ -51,6 +59,7 @@
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university#book-list)
 
 - [A Programmer's Introduction to Mathematics](https://pimbook.org/)
+- [Learn Design and Code](https://iamsteve.me/)
 
 ### Useful No Free content
 
@@ -115,7 +124,7 @@
 
 # Front End
 
-- [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
+- [Front-End Performance Checklist](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 
 ## Javascript
 
@@ -127,6 +136,7 @@
 - [MDN JS Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [Exploring ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html)
 - [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Javascript - Jupyter notebook](http://n-riesco.github.io/ijavascript/)
 
 ## Transpilers: Babel
 
@@ -137,6 +147,7 @@
 - [Codecademy’s HTML and CSS course](https://www.codecademy.com/catalog/language/html-css)
 - [The Mozilla Developer Network’s Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 - [Mozilla Webmaker](https://webmaker.org/)
+- [html-can-do-that-con](https://dev.to/ananyaneogi/html-can-do-that-c0n)
 
 ## CSS
 
@@ -146,6 +157,7 @@
 - [csszengarden](http://www.csszengarden.com/)
 - [The most hearted of 2018 ](https://codepen.io/2018/popular/pens/) top 100 list of CodePen creations from 2018
 - [101 Bash Commands and Tips for Beginners to Experts](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je) get comfortable on the command line.[FANCY-BORDER-RADIUS](https://9elements.github.io/fancy-border-radius/)
+- [cssbattle](https://cssbattle.dev/)
 
 ## CSS - extra
 
@@ -266,6 +278,14 @@
 - [documentation for the Ruby](https://ruby-doc.org/core-2.5.0/Enumerable.html#method-i-all-3F)
   <!-- * []() -->
 
+## Scala functional programming
+
+- [scala official website](https://www.scala-lang.org/)
+- [Programming in Scala by Martin Odersky- book](https://booksites.artima.com/programming_in_scala_2ed)
+- [Programming in Scala Forum](https://www.artima.com/forums/forum.jsp?forum=282)
+- [Scala School!](https://twitter.github.io/scala_school/index.html)
+
+
 ## API
 
 - [REST API Tutorial](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
@@ -308,14 +328,15 @@ It's just a architectural approach to designing applications in a way that's mod
 * [Docker](https://www.docker.com/) to package, distribute, and run our application.
 * [Kubernetes](http://kubernetes.io/)  to handle the heavy lifting of managing, deploying, and scaling our application.
 * [Google Container Engine (GKE)](https://cloud.google.com/container-engine/) is a hosted Kubernetes service
+* [Amazing interactive Tutorials](https://katacoda.com/courses/kubernetes)
 
 
 ## Interesting stuff
 
 - [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [jenkramer -front-end](http://www.jenkramer.org/)
-  <!-- - []()
-- []()
+- [what-is-code-golf](https://css-tricks.com/what-is-code-golf/)
+<!-- - []()
 - []()
 - []()
 - []() -->
@@ -343,6 +364,9 @@ It's just a architectural approach to designing applications in a way that's mod
 - [Fuzzybrains Django Girls and DjangEurope](https://www.fuzzybrains.org/it/)
 - [#LEAD DEV](https://theleaddeveloper.com/)
 - [Halfstack 2017 Videos](https://halfstackconf2017.streameventlive.com/)
+- [yougotthis](https://2019.yougotthis.io/)
+- [js13kgames](https://js13kgames.com/)
+- [developher](https://developher.org/)
 
 ## podcast
 
@@ -384,8 +408,13 @@ It's just a architectural approach to designing applications in a way that's mod
 
 ## Books
 
--[Site Reliability Engineering && The Site Reliability Workbook](https://landing.google.com/sre/books/)
+- [Site Reliability Engineering && The Site Reliability Workbook](https://landing.google.com/sre/books/)
 
 ## GAMES
 
 - [kodingergoy](https://kodingergoy.arkivert.no/)
+
+# Newsletter and reading website/blog
+
+- [LWN.net](https://lwn.net/)
+- [Hacker News](https://news.ycombinator.com/)
