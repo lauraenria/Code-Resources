@@ -124,7 +124,7 @@
 
 # Front End
 
-- [Front-End Performance Checklist 2019](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
+- [Front-End Performance Checklist](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 
 ## Javascript
 
@@ -408,7 +408,7 @@ It's just a architectural approach to designing applications in a way that's mod
 
 ## Books
 
--[Site Reliability Engineering && The Site Reliability Workbook](https://landing.google.com/sre/books/)
+- [Site Reliability Engineering && The Site Reliability Workbook](https://landing.google.com/sre/books/)
 
 ## GAMES
 
