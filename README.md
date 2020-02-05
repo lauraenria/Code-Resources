@@ -61,9 +61,15 @@
 - [A Programmer's Introduction to Mathematics](https://pimbook.org/)
 - [Learn Design and Code](https://iamsteve.me/)
 
+- [Software Construction on Java](http://web.mit.edu/6.005/www/fa15/)
+
 ### Useful No Free content
 
 - [Coding Faculty](http://codingfaculty.com/)
+
+### Compute Science and Software Engineer Constructions
+
+- [Recursion](https://www.freecodecamp.org/news/recursion-is-not-hard-858a48830d83/)
 
 ## Indentation e extra
 
@@ -284,7 +290,23 @@
 - [Programming in Scala by Martin Odersky- book](https://booksites.artima.com/programming_in_scala_2ed)
 - [Programming in Scala Forum](https://www.artima.com/forums/forum.jsp?forum=282)
 - [Scala School!](https://twitter.github.io/scala_school/index.html)
-
+- [Programming in Scala by Martin Odersky- book](https://booksites.artima.com/programming_in_scala_2ed)
+- [Scala School!](https://twitter.github.io/scala_school/index.html)
+- [The 99 Scala Problems](http://aperiodic.net/phil/scala/s-99/)
+- [Scala Glossary](https://docs.scala-lang.org/glossary/)
+- [Scala Blog](http://blog.higher-order.com/blog/2012/09/13/what-purity-is-and-isnt/)
+- [Blog pchiusano](https://pchiusano.github.io/)
+- [Blog tmorris](https://blog.tmorris.net/)
+- [Scala Labs](https://scala-labs.github.io/getting-started.html)
+- [Functional Programming Principles in Scala - Coursera](https://www.coursera.org/learn/progfun1)
+- [fpinscala](https://github.com/fpinscala/fpinscala)
+- [hackerrank Functional Programming](https://www.hackerrank.com/domains/fp)
+- [The Neophytes guide to Scala](https://danielwestheide.com/books/the-neophytes-guide-to-scala/)
+- [From ES6 to Scala](https://www.scala-js.org/doc/sjs-for-js/es6-to-scala-part1.html)
+- [Expressions - chapter 6](https://www.scala-lang.org/files/archive/spec/2.11/06-expressions.html)
+|  plus [Lexical Syntax,Identifiers](https://www.scala-lang.org/files/archive/spec/2.11/02-identifiers-names-and-scopes.html), Names and Scopes, types, basic declarations and definitions, classes-and objects, implicits, pattern-matching, top-level definitions,XML Expressions and Patterns, Annotations, The Scala Standard Library,Syntax Summary,  
+- [THE PATH TO ENLIGHTENMENT](https://www.scala-exercises.org) Scala Exercises is an Open Source project for learning different technologies based in the Scala Programming Language.
+- [Learn PLAY FRAMEWORK with Mark Lewis](https://www.youtube.com/watch?v=FqMDHsFNlxQ&list=PLLMXbkbDbVt8tBiGc1y69BZdG8at1D7ZF&index=1)
 
 ## API
 
