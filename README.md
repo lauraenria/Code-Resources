@@ -365,8 +365,13 @@ It's just a architectural approach to designing applications in a way that's mod
 
 ## Job Interview Tips
 
-<!-- - []() -->
+- [fullstack.cafe](https://www.fullstack.cafe/) $$ not free
+* [InterviewThis](https://github.com/Twipped/InterviewThis)
 <!-- * []() -->
+<!-- * []() -->
+<!-- * []() -->
+<!-- * []() -->
+
 
 
 ## Meetups
