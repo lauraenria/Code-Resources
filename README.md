@@ -367,8 +367,8 @@ It's just a architectural approach to designing applications in a way that's mod
 
 - [fullstack.cafe](https://www.fullstack.cafe/) $$ not free
 * [InterviewThis](https://github.com/Twipped/InterviewThis)
-<!-- * []() -->
-<!-- * []() -->
+* [tech-interview-handbook](https://yangshun.github.io/tech-interview-handbook/)
+* [tech-interview-handbook GitHub Repo](https://github.com/yangshun/front-end-interview-handbook)
 <!-- * []() -->
 <!-- * []() -->
 
