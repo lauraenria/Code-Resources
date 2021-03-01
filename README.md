@@ -132,6 +132,33 @@
 
 - [Front-End Performance Checklist](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
 
+# Front End Security: Web security vulnerability 
+    • Relevant legislation like GDP
+    • SQL injection attack
+    • Cross-site request forgery
+    • Insecure deserialization
+    • Sensitive data exposure
+  [Google's Cross-site scripting (XSS) challenge](https://xss-game.appspot.com/)
+  <!-- []() -->
+  <!-- []() -->
+
+# Characteristics Good Quality Code
+    • Reusability
+    • Maintainability
+    • Modularity
+    • Testing and practices like test driven development
+    • Naming conventions and best practices like functions with a single task 
+    • Functional principles, no side effects etc
+    • Readability
+    • Design patterns
+    • SOLID object-oriented design principles
+    • DRY mnemonic
+  <!-- []() -->
+  <!-- []() -->
+  <!-- []() -->
+  <!-- []() -->
+  <!-- []() -->
+
 ## Javascript
 
 - [es6features](https://github.com/lukehoban/es6features)
@@ -426,6 +453,9 @@ It's just a architectural approach to designing applications in a way that's mod
 - [bpp-apprenticeships](https://www.bpp.com/apprenticeships/apprenticeship-vacancies)
 - [Financial Time Appreticeship](https://aboutus.ft.com/en-gb/careers/graduate-schemes-and-internships/software-engineering-apprentice-scheme/)
 - [softwire](https://www.softwire.com/work-for-us/apprentice_software_developer/)
+-[estio UK](https://www.estio.co.uk/)
+- [Level 4 Web Development Apprenticeship Programme](https://www.happy.co.uk/apprenticeships/level-4-web-development-apprenticeship-programme/)
+- [justit](https://www.justit.co.uk/candidates/become-an-apprentice/)
 
 # Bootcamps
 
@@ -445,3 +475,39 @@ It's just a architectural approach to designing applications in a way that's mod
 
 - [LWN.net](https://lwn.net/)
 - [Hacker News](https://news.ycombinator.com/)
+
+# REMOTE JOBS
+
+
+- [Upwork](https://www.upwork.com/)
+- [scalajobs remote](https://scalajobs.dev/)
+- [Hand-picked remote jobs from Hacker News Who is hiring](https://remoteleaf.com/whoishiring)
+- []()
+
+## Work Platforms
+
+- [Guida alla scelta dell'annuncio di lavoro perfetto in Italia](https://twc-italia.org/news/2021-02-05-a-job-advertisements-odyssey/)
+- [Glassdoor Uk](www.glassdoor.co.uk/)
+- [Infojobs Italy](https://www.infojobs.it/)
+- [Applygateway](https://www.applygateway.com/)
+- [Talent.io](https://www.talent.io/p/en-gb/home)
+- [Indeed UK](https://uk.indeed.com/)
+- [Jobsite UK](https://www.jobsite.co.uk/)
+- [Monster](https://www.monster.co.uk/)
+- [Workinstartups](https://workinstartups.com/)
+- [Angelist - Join the world’s largest startup community](https://angel.co/)
+- [cwjobs](https://www.cwjobs.co.uk/)
+- [codebar.io/jobs](https://codebar.io/jobs)
+- [cv-library Uk](https://www.cv-library.co.uk/)
+- [ziprecruiter Uk - also remote](https://www.ziprecruiter.co.uk/)
+- [bubble - Find tech and digital jobs](https://www.bubble-jobs.co.uk/)
+- [royalholloway - All Current Vacancies](https://jobs.royalholloway.ac.uk/vacancies.aspx?cat=-1)
+- [channelpeople](https://www.channelpeople.co.uk/)
+- [hackajob](https://hackajob.co/)
+- [jobmatrix](https://jobmatrix.co.uk/)
+- [wearesource](https://www.wearesource.co.uk/)
+- [jobbio](https://jobbio.com/)
+<!-- - []()
+- []()
+- []()
+- []() -->
