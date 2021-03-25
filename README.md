@@ -385,17 +385,19 @@ It's just a architectural approach to designing applications in a way that's mod
 - [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [jenkramer -front-end](http://www.jenkramer.org/)
 - [what-is-code-golf](https://css-tricks.com/what-is-code-golf/)
+- [Explore, Create and Share Learning Roadmaps in Tech](https://reallyconfused.co/)
 <!-- - []()
-- []()
 - []()
 - []() -->
 
-## Job Interview Tips
 
+## Job Interview Tips
+- [Fare un CV serio da programmatore senza capirci niente di design](https://write.as/chobeat/cv-serio-programmatore-design)
+- [Guida Anti-Inculata per laureandi in Informatica e Ingegneria Informatica](https://write.as/chobeat/guida-anti-inculata-per-laureandi-in-informatica-ing-inf)
 - [fullstack.cafe](https://www.fullstack.cafe/) $$ not free
-* [InterviewThis](https://github.com/Twipped/InterviewThis)
-* [tech-interview-handbook](https://yangshun.github.io/tech-interview-handbook/)
-* [tech-interview-handbook GitHub Repo](https://github.com/yangshun/front-end-interview-handbook)
+- [InterviewThis](https://github.com/Twipped/InterviewThis)
+- [tech-interview-handbook](https://yangshun.github.io/tech-interview-handbook/)
+- [tech-interview-handbook GitHub Repo](https://github.com/yangshun/front-end-interview-handbook)
 <!-- * []() -->
 <!-- * []() -->
 
@@ -421,6 +423,7 @@ It's just a architectural approach to designing applications in a way that's mod
 - [yougotthis](https://2019.yougotthis.io/)
 - [js13kgames](https://js13kgames.com/)
 - [developher](https://developher.org/)
+- [Lambda World - A functional programming conference](https://www.lambda.world/)
 
 ## podcast
 
@@ -478,11 +481,10 @@ It's just a architectural approach to designing applications in a way that's mod
 
 # REMOTE JOBS
 
-
 - [Upwork](https://www.upwork.com/)
 - [scalajobs remote](https://scalajobs.dev/)
 - [Hand-picked remote jobs from Hacker News Who is hiring](https://remoteleaf.com/whoishiring)
-- []()
+<!-- - []() -->
 
 ## Work Platforms
 
