@@ -334,6 +334,7 @@
 |  plus [Lexical Syntax,Identifiers](https://www.scala-lang.org/files/archive/spec/2.11/02-identifiers-names-and-scopes.html), Names and Scopes, types, basic declarations and definitions, classes-and objects, implicits, pattern-matching, top-level definitions,XML Expressions and Patterns, Annotations, The Scala Standard Library,Syntax Summary,  
 - [THE PATH TO ENLIGHTENMENT](https://www.scala-exercises.org) Scala Exercises is an Open Source project for learning different technologies based in the Scala Programming Language.
 - [Learn PLAY FRAMEWORK with Mark Lewis](https://www.youtube.com/watch?v=FqMDHsFNlxQ&list=PLLMXbkbDbVt8tBiGc1y69BZdG8at1D7ZF&index=1)
+- [Essential Effects](https://essentialeffects.dev/)
 
 ## API
 
