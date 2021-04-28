@@ -490,6 +490,7 @@ It's just a architectural approach to designing applications in a way that's mod
 ## Work Platforms
 
 - [Guida alla scelta dell'annuncio di lavoro perfetto in Italia](https://twc-italia.org/news/2021-02-05-a-job-advertisements-odyssey/)
+- [geekandjob Il lavoro nel tech su misura per te!](https://www.geekandjob.com/)
 - [Glassdoor Uk](www.glassdoor.co.uk/)
 - [Infojobs Italy](https://www.infojobs.it/)
 - [Applygateway](https://www.applygateway.com/)
