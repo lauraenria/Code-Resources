@@ -86,6 +86,9 @@
 
 - [typingclub](https://www.typingclub.com/sportal/)
 
+# Testing Framework
+- [Free advanced Cypress tutorial](https://testautomationu.applitools.com/advanced-cypress-tutorial/)
+
 ## Editor
 
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -425,7 +428,8 @@ It's just a architectural approach to designing applications in a way that's mod
 - [js13kgames](https://js13kgames.com/)
 - [developher](https://developher.org/)
 - [Lambda World - A functional programming conference](https://www.lambda.world/)
-
+- [frontendtestfest](https://frontendtestfest.com/?utm_source=organic-social&utm_medium=influencer&utm_content=virtual-event&utm_term=applitools-angie-jones&utm_campaign=210608-fetf)
+- [Component Testing with Vite, Vue, and Cypress video](https://www.vuemastery.com/conferences/vueconf-us-2021/component-testing-with-vite-vue-and-cypress/?utm_source=newsletter&utm_medium=email&utm_campaign=just_added_vueconf_us_talks&utm_term=2021-05-24)
 ## podcast
 
 - [itcareerenergizer](http://itcareerenergizer.com/)
