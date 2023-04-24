@@ -1,8 +1,67 @@
-# My Code Resources:
+# My Code Resources Menu:
 
-# Years
+* [Developer Roadmap](#developer-roadmap)
+* Pratical Code for beginners
+  - [FreeCodeCamp](#freecodecamp-resources)
+  - [CodeWars](#codewars)
+  - [Code Accademy](#code-accademy)
+  - [More](#more)
+* [Useful No Free content](#useful-no-free-content)
+* [Compute Science and Software Engineer Constructions](#compute-science-and-software-engineer-constructions)
+* [Indentation e extra](#indentation-and-extra)
+* [Editor](#editor)
+* [Youtube channels](#youtube-channels)
+* [Processing](#processing)
+* [Git](#git)
+* [GitHub](#github)
+* [Front End](#front-end)
+* [Front End Security: Web security vulnerability](#front-end-security-web-security-vulnerability)
+* [Characteristics Good Quality Code](#characteristics-good-quality-code)
+* [Javascript](#javascript)
+* [Transpilers: Babel](#transpilers-babel)
+* [HTML](#html)
+* [CSS](#css)
+  - [CSS - extra](#css---extra)
+  - [CSS Challenge](#css-challenge)
+  - [FlexBox](#flexbox)
+  - [RESPONSIVE IMAGES](#responsive-images)
+  - [CSS GRID](#css-grid)
+* [ELM](#elm)
+* [BackEnd](#backend)
+  - [Python](#python)
+  - [Django](#django)
+  - [Ruby](#ruby)
+  - [Scala](#scala-functional-programming)
+  - [API](#api)
+* [Live shared Code](#live-shared-code)
+* [Web](#web)
+* [Improve your logical-thinking](#improve-your-logical-thinking)
+* [Microservices](#microservices)
+* [AGILE & Scrum Master methodology](#agile--scrum-master-methodology)
+* [Interesting stuff](#interesting-stuff)
+* JOB RELATED
+  - [Job Interview Tips](#job-interview-tips)
+  - [Meetups](#meetups)
+  - [Guideline](#guideline)
+  - [Conferences](#conference)
+  - [Podcast](#podcast)
+  - [Interneship and help for diversity and non](#interneship-and-help-for-diversity-and-non)
+  - [Apprentices](#Apprentices)
+  - [Bootcamps](#bootcamps)
+  - [REMOTE JOBS](#remote-jobs)
+  - [Work Platforms](#work-platforms)
+* [Media](#media)
+  - [Books](#books)
+  - [Games](#games)
+  - [Newsletter and reading website/blog](#newsletter-and-reading-websiteblog)
 
-- [The 2020 Web Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
+
+
+
+
+# Developer Roadmap
+
+- [The 2023 Web Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
 - [The 2019 Web Developer RoadMap](https://hackernoon.com/the-2019-web-developer-roadmap-ab89ac3c380e)
 - [front-end-handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
@@ -29,7 +88,7 @@
 
 - [CodeAccademy](https://www.codecademy.com/)
 
-## more
+## More
 
 - [The Odin project](https://www.theodinproject.com/courses/ruby-on-rails)
 - [Hacker Rank](https://www.hackerrank.com/)
@@ -63,6 +122,7 @@
 
 - [Software Construction on Java](http://web.mit.edu/6.005/www/fa15/)
 
+
 ### Useful No Free content
 
 - [Coding Faculty](http://codingfaculty.com/)
@@ -71,7 +131,8 @@
 
 - [Recursion](https://www.freecodecamp.org/news/recursion-is-not-hard-858a48830d83/)
 
-## Indentation e extra
+
+## Indentation and extra
 
 - [Importance of code indentation](http://mrbool.com/importance-of-code-indentation/29079)
 - [Indenting C Programs ](https://www2.cs.arizona.edu/~mccann/indent_c.html)
@@ -122,6 +183,7 @@
 - [Git Commit Message Conventions `IMPORTANT` ](https://gist.github.com/stephenparish/9941e89d80e2bc58a153#message-footer)
   - [G.C.M.C. Angulars](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit)
 - [Most commonly used git tips and tricks](https://github.com/git-tips/tips)
+- [Version Control with Atlassian University](https://www.coursera.org/learn/version-control-with-git)
 
 ## GitHub
 
@@ -379,6 +441,25 @@ It's just a architectural approach to designing applications in a way that's mod
 * [Google Container Engine (GKE)](https://cloud.google.com/container-engine/) is a hosted Kubernetes service
 * [Amazing interactive Tutorials](https://katacoda.com/courses/kubernetes)
 
+## AGILE & Scrum Master methodology
+![Agile](./agileindev.jpg)
+
+- [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira) Free  - certificate with  about 50£
+- [best practices kanban](https://www.atlassian.com/agile/kanban)
+- [Free Training](https://university.atlassian.com/student/catalog/list?category_ids=21734-free-training&ref=product&quickstart&jsw_admin&visit_au)
+<!-- 
+- [atlassian university](https://www.atlassian.com/university)
+- []()
+- []() -->
+</br>
+</br>
+ <img src="./AGILE%20REVIEW.png" alt="Agile review" height="50%" width="50%" />
+<img src="./JIRA%20REVIEW.png" alt="Jira review" height="50%" width="50%" />
+<img src="././JIRA%20RESOURCES.png" alt="Jira Resources" height="50%" width="50%" />
+
+
+
+</br>
 
 ## Interesting stuff
 
@@ -390,6 +471,7 @@ It's just a architectural approach to designing applications in a way that's mod
 - []()
 - []() -->
 
+# JOB RELATED
 ## Job Interview Tips
 
 - [fullstack.cafe](https://www.fullstack.cafe/) $$ not free
@@ -422,11 +504,11 @@ It's just a architectural approach to designing applications in a way that's mod
 - [js13kgames](https://js13kgames.com/)
 - [developher](https://developher.org/)
 
-## podcast
+## Podcast
 
 - [itcareerenergizer](http://itcareerenergizer.com/)
 
-# Interneship and help for diversity and non
+## Interneship and help for diversity and non
 
 - [Google Summer of Code](https://summerofcode.withgoogle.com/)
 - [Outreachy](https://www.outreachy.org/)
@@ -457,34 +539,19 @@ It's just a architectural approach to designing applications in a way that's mod
 - [Level 4 Web Development Apprenticeship Programme](https://www.happy.co.uk/apprenticeships/level-4-web-development-apprenticeship-programme/)
 - [justit](https://www.justit.co.uk/candidates/become-an-apprentice/)
 
-# Bootcamps
+## Bootcamps
 
 - [foundersandcoders](https://www.foundersandcoders.com/)
 - [kodiri](https://www.kodiri.com/portal#intro)
 - [makers academy](https://makers.tech/)
 
-## Books
-
-- [Site Reliability Engineering && The Site Reliability Workbook](https://landing.google.com/sre/books/)
-
-## GAMES
-
-- [kodingergoy](https://kodingergoy.arkivert.no/)
-
-# Newsletter and reading website/blog
-
-- [LWN.net](https://lwn.net/)
-- [Hacker News](https://news.ycombinator.com/)
-
 # REMOTE JOBS
-
 
 - [Upwork](https://www.upwork.com/)
 - [scalajobs remote](https://scalajobs.dev/)
 - [Hand-picked remote jobs from Hacker News Who is hiring](https://remoteleaf.com/whoishiring)
-- []()
 
-## Work Platforms
+# Work Platforms 
 
 - [Guida alla scelta dell'annuncio di lavoro perfetto in Italia](https://twc-italia.org/news/2021-02-05-a-job-advertisements-odyssey/)
 - [Glassdoor Uk](www.glassdoor.co.uk/)
@@ -511,3 +578,20 @@ It's just a architectural approach to designing applications in a way that's mod
 - []()
 - []()
 - []() -->
+
+# MEDIA
+
+## Books
+
+- [Site Reliability Engineering && The Site Reliability Workbook](https://landing.google.com/sre/books/)
+
+## GAMES
+
+- [kodingergoy](https://kodingergoy.arkivert.no/)
+
+## Newsletter and reading website/blog
+
+- [LWN.net](https://lwn.net/)
+- [Hacker News](https://news.ycombinator.com/)
+
+###### [MENU](#my-code-resources-menu)
