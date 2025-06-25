@@ -1,6 +1,7 @@
 # My Code Resources Menu:
 
-* [Developer Roadmap](#developer-roadmap)
+* [Basic Developer Roadmap](#developer-roadmap)
+* [All Developer Roadmaps](#all-developer-roadmaps)
 * Pratical Code for beginners
   - [FreeCodeCamp](#freecodecamp-resources)
   - [CodeWars](#codewars)
@@ -56,16 +57,42 @@
   - [Newsletter and reading website/blog](#newsletter-and-reading-websiteblog)
 
 
-
-
+[]()
+[]()
 
 # Developer Roadmap
 
+1. READ [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) , fourth edition di Thomas H. Cormen, Charles E. Leiserson, MIT Press Ltd
+     - [solutions](https://github.com/wojtask/clrs4e-solutions) | [solutions](https://github.com/wojtask/clrs4e-solutions)
+2. Choose a programming language   
+3. [Learning to evaluate algorithmic complexity](https://www.geeksforgeeks.org/dsa/complete-guide-on-complexity-analysis/)
+     - [01 MATEMATICA Ogni problema è risolubile?](https://www.youtube.com/watch?v=UsvPqfPIGsI&pp=ygVWTUFURU1BVElDQSBPZ25pIHByb2JsZW1hIMOoIHJpc29sdWJpbGU_IC0gQWNjYWRlbWlhIGRlaSBMaW5jZWkgZSBTTlMgLSAxOSBnZW5uYWlvIDIwMTg%3D)
+     - [02 MATEMATICA Ogni problema è risolubile?](https://www.youtube.com/watch?v=rhEv2T_jc38&pp=ygVWTUFURU1BVElDQSBPZ25pIHByb2JsZW1hIMOoIHJpc29sdWJpbGU_IC0gQWNjYWRlbWlhIGRlaSBMaW5jZWkgZSBTTlMgLSAxOSBnZW5uYWlvIDIwMTjSBwkJ0AkBhyohjO8%3D)
+     - [03 MATEMATICA Ogni problema è risolubile?](https://www.youtube.com/watch?v=vF5_XAcxMj0&pp=ygVWTUFURU1BVElDQSBPZ25pIHByb2JsZW1hIMOoIHJpc29sdWJpbGU_IC0gQWNjYWRlbWlhIGRlaSBMaW5jZWkgZSBTTlMgLSAxOSBnZW5uYWlvIDIwMTg%3D)
+
+4. Follow the [NEETCODE ROADMAP](https://neetcode.io/roadmap)  
+    - Practice on [LEETCODE](https://leetcode.com/)  
+5. Learn multithreading, multiprocessing, and [Global Interpreter Lock (GIL)](https://realpython.com/python-gil/) in Python
+6. Understand the concept of shared memory access  
+7. Learn POOL (process/thread management or intelligent handling of concurrent tasks)  
+8. Learn database management  
+    - DBMS (Database Management Systems)  
+    - Relational and Non-relational databases  
+9. Learn the [Sanic framework](https://www.geeksforgeeks.org/python/introduction-to-sanic-web-framework-python/) to build servers  
+10. Understand [DSN](https://www.geeksforgeeks.org/computer-networks/domain-name-system-dns-in-application-layer/) (Domain Name Space)  
+11. Take care of your LinkedIn profile
+
+<br>
+
+## All Developer Roadmaps
+
+- [All Roadmaps](https://roadmap.sh/roadmaps)
 - [The 2023 Web Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
 - [The 2019 Web Developer RoadMap](https://hackernoon.com/the-2019-web-developer-roadmap-ab89ac3c380e)
 - [front-end-handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 - [front-end-handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
+
 
 ## Pratical Code for beginners
 
