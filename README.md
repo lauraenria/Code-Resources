@@ -472,12 +472,12 @@ It's just a architectural approach to designing applications in a way that's mod
 ![Agile](./agileindev.jpg)
 
 - [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira) Free  - certificate with  about 50£
-- [best practices kanban](https://www.atlassian.com/agile/kanban)
+- [Best practices kanban](https://www.atlassian.com/agile/kanban)
 - [Free Training](https://university.atlassian.com/student/catalog/list?category_ids=21734-free-training&ref=product&quickstart&jsw_admin&visit_au)
-<!-- 
-- [atlassian university](https://www.atlassian.com/university)
+
+- [Atlassian university](https://www.atlassian.com/university)
+- [Online scrum master summit](https://onlinescrummastersummit.com/)
 - []()
-- []() -->
 </br>
 </br>
  <img src="./AGILE%20REVIEW.png" alt="Agile review" height="50%" width="50%" />
